@@ -1,0 +1,12 @@
+{
+  "name": "poc-react-native-reanimatedv2",
+  "displayName": "poc-react-native-reanimatedv2",
+  "expo": {
+    "name": "poc-react-native-reanimatedv2",
+    "slug": "poc-react-native-reanimatedv2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
